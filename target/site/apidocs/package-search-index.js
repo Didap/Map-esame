@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.globalsoftwaresupport.app"},{"l":"com.globalsoftwaresupport.callbacks"},{"l":"com.globalsoftwaresupport.constants"},{"l":"com.globalsoftwaresupport.image"},{"l":"com.globalsoftwaresupport.model"},{"l":"com.globalsoftwaresupport.sound"},{"l":"com.globalsoftwaresupport.ui"}]

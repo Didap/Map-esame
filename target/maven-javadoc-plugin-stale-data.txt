@@ -1,0 +1,60 @@
+/Library/Java/JavaVirtualMachines/jdk-14.0.1.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SpaceGame 0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SpaceGame 0.1-SNAPSHOT API'
+com.globalsoftwaresupport.ui
+com.globalsoftwaresupport.ui
+com.globalsoftwaresupport.ui
+com.globalsoftwaresupport.app
+com.globalsoftwaresupport.callbacks
+com.globalsoftwaresupport.constants
+com.globalsoftwaresupport.image
+com.globalsoftwaresupport.image
+com.globalsoftwaresupport.model
+com.globalsoftwaresupport.model
+com.globalsoftwaresupport.model
+com.globalsoftwaresupport.model
+com.globalsoftwaresupport.model
+com.globalsoftwaresupport.sound
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/src/main/java/.DS_Store = 1592475272396
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/src/main/java = 1592475341156
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/constant-values.html = 1592817390865
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/member-search-index.zip = 1592817390999
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/overview-tree.html = 1592817390947
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/index.html = 1592817390960
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/package-search-index.js = 1592817390982
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/package-search-index.zip = 1592817390997
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/type-search-index.zip = 1592817390998
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/serialized-form.html = 1592817390877
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/index-all.html = 1592817391000
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/allpackages-index.html = 1592817391006
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/deprecated-list.html = 1592817390956
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/member-search-index.js = 1592817390998
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/script.js = 1592817391013
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/stylesheet.css = 1592817391012
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/overview-summary.html = 1592817391008
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/help-doc.html = 1592817391010
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/system-properties.html = 1592817391007
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/element-list = 1592817390809
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/allclasses-index.html = 1592817391004
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/type-search-index.js = 1592817390998
+/Users/w/Downloads/PacMan/mavenproject2/SpaceGame/target/site/apidocs/search.js = 1592817391014
