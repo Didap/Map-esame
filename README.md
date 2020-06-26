@@ -66,7 +66,10 @@ i due metodi keyReleased e keyPressed gestiscono gli input che immettiamo da tas
 
 ## Diagramma delle Classi
 
-![Diagramma Classi](/uml.pdf)
+![Diagramma Classi](/uml-1.png)
+![Diagramma Classi2](/uml-2.png)
+![Diagramma Classi3](/uml-3.png)
+![Diagramma Classi4](/uml-4.png)
 
 
 
