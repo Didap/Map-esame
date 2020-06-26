@@ -1,9 +1,10 @@
 # MAP Invaders
 ## Presentazione dell'architettura del sistema
 
-Quando il prof. ha chiesto un progetto interamente sviluppato in java ho subito pensato ad un videogioco. Space Invaders è un classico videogioco semplice da realizzare, ma che facilmente riesce a contenere tutti i concetti base di Metodi Avanzati di Programmazione.
+Quando il prof. ha chiesto un progetto interamente sviluppato in java ho subito pensato ad un videogioco. 
+Space Invaders è un classico videogioco semplice da realizzare, ma che facilmente riesce a contenere tutti i concetti base di Metodi Avanzati di Programmazione.
 
-Dall'utilizzo della classe astratta Sprite, per mettere a fattor comune alcune caratteristiche (attributi) e modi d'uso (metodi) all'override del metodo move() per far muovere in maniera differente ogni oggetto istanziato (a seconda poi del ruolo nel videogioco)
+Dall'utilizzo della classe astratta Sprite, per mettere a fattor comune alcune caratteristiche (attributi) e modi d'uso (metodi), all'override del metodo move() per far muovere in maniera differente ogni oggetto istanziato (a seconda poi del ruolo nel videogioco)
 
 Anche se non è molto didattico, da quando alle superiori studiavo i fondamenti dell'informatica (variabili, cicli, iterazioni semplici) ho sempre associato il tutto ad un videogioco, e anche studiando la teoria di MAP, negli esempi che ripetendo facevo a me stesso ritrovavo tante nozioni importanti, come quelle inerenti all'ereditarietà rispetto alle superclassi o in generale sulle nozioni di progettazione del software.
 
@@ -34,9 +35,9 @@ Image riguarda la parte "grafica" del videogioco, infatti nella classe **Image**
 Siamo ad una delle due parti più importanti dello sviluppo del videogioco (assieme alla successiva, la UI).
 Innanzitutto ogni classe indica un tipo di elemento che ritroveremo nel canvas. 
 Ognuna di loro ha delle caratteristiche e dei metodi precisi, che in alcuni casi sono "nuovi", privati (come nel caso di initialize() per inizializzare la nave del giocatore) ed interni alla classe.
-In altri casi (come in move() ovvero il metodo che permette ad un elemento di muoversi) vengono ereditati dalla classe astratta **Sprite**
+In altri casi (come in move() ovvero il metodo che permette ad un elemento di muoversi) vengono ereditati dalla classe astratta **Sprite** .
 Le classi astratte, come ho imparato dal corso di MAP, sono classi che servono come "repository" di metodi e di informazioni che ci serve ereditare su molteplici sottoclassi che istanziano tramite i loro costruttori oggetti con alcune caratteristiche simili. **Sprite**on può istanziare oggetti, e non viene mai utilizzata nell'applicazione, se non per questo motivo (ereditarietà).
-Un altra serie di metodi importantissimo ereditati da Sprite sono getX e getY (oltre che setX e setY) che servono a gestire le coordinate dei vari elementi! Tutto il gioco si basa su questo ed è stata la parte di sviluppo più complicata.
+Un altra serie di metodi importantissimi ereditati da Sprite sono getX e getY (oltre che setX e setY), che servono a gestire le coordinate dei vari elementi! Tutto il gioco si basa su questo ed è stata la parte di sviluppo più complicata.
 
 ###### UI (User Interface)
 Punto focale del progetto, ricco di codice e di ore perse per errori vari, la UI contiene tra le altre classi il GamePanel, che scoprirete presto essere il vostro "campo dove smanettare" per rendere tutti i package costruiti prima utili ed utilizzabili.
