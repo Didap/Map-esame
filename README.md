@@ -64,33 +64,27 @@ doOneLoop è il pivot di aggiornamento del videogioco, grazie ad update() e repa
 i due metodi keyReleased e keyPressed gestiscono gli input che immettiamo da tastiera.
 
 
-## Diagramma delle Classi
-
-![Diagramma Classi](/uml-1.png)
-![Diagramma Classi2](/uml-2.png)
-![Diagramma Classi3](/uml-3.png)
-![Diagramma Classi4](/uml-4.png)
-
-
-
-
-
-
 ```
 Schermate di esempio
 ```
 
+## Diagramma delle Classi
+
+![Diagramma Classi](/uml.png)
+
+
+
+
+
+
+
+
+## Struttura Algebrica
+
+
 
 ###### Istruzioni (?)
 
-
-
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 
 
