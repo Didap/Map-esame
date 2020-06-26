@@ -67,7 +67,7 @@ i due metodi keyReleased e keyPressed gestiscono gli input che immettiamo da tas
 ```
 Schermate di esempio
 ```
-
+![demo](/demo.gif)
 
 
 ## Diagramma delle Classi
@@ -81,7 +81,7 @@ Schermate di esempio
 
 
 
-## Struttura Algebrica
+## Struttura Algebrica [Sprite]
 
 ![Struttura Algebrica](/algebric.png)
 
