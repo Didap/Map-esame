@@ -7,7 +7,7 @@ public class App {
 
 	public static void main(String[] args) {
 		
-		//we create a new Thread for the game. This is usually called "game thread"
+		//creiamo una nuova istanza di gioco
 		EventQueue.invokeLater(() -> {
 			new GameMainFrame();
 		});
