@@ -75,13 +75,6 @@ Schermate di esempio
 
 ![Diagramma Classi](/uml.png)
 
-
-
-
-
-
-
-
 ## Struttura Algebrica [Sprite]
 
 ![Struttura Algebrica](/algebric.png)
