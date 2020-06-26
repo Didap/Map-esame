@@ -68,6 +68,8 @@ i due metodi keyReleased e keyPressed gestiscono gli input che immettiamo da tas
 Schermate di esempio
 ```
 
+
+
 ## Diagramma delle Classi
 
 ![Diagramma Classi](/uml.png)
@@ -81,10 +83,11 @@ Schermate di esempio
 
 ## Struttura Algebrica
 
+![Struttura Algebrica](/algebric.png)
 
 
 ###### Istruzioni (?)
-
+Per i neofiti: scaricate il progetto e inseritelo nel mavenproject sovrascrivendo src, buildate ed avviate. enjoy 👾
 
 
 
